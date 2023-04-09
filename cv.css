@@ -1,0 +1,31 @@
+body {
+  background-color: violet;
+}
+h1 {
+  color: yellow;
+}
+h2 {
+  color: yellow;
+}
+p {
+  color: floralwhite;
+}
+ul {
+  color: floralwhite;
+}
+table {
+  color: white;
+}
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: yellow;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+}
